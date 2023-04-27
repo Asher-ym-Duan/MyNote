@@ -1,0 +1,14 @@
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.exe
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.deps.json
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.runtimeconfig.json
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.runtimeconfig.dev.json
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.dll
+C:\Users\F7692596\source\repos\MyFileWatcher\bin\Debug\netcoreapp3.1\MyFileWatcher.pdb
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.csproj.AssemblyReference.cache
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.AssemblyInfoInputs.cache
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.AssemblyInfo.cs
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.dll
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.pdb
+C:\Users\F7692596\source\repos\MyFileWatcher\obj\Debug\netcoreapp3.1\MyFileWatcher.genruntimeconfig.cache
